@@ -7,7 +7,7 @@ using namespace std;
 #ifndef WARGAME_A_MASTER_FOOTCOMMANDER_HPP
 #define WARGAME_A_MASTER_FOOTCOMMANDER_HPP
 
-class FootCommander : public Soldier {
+class FootCommander : public FootSoldier {
 private:
 
 public:

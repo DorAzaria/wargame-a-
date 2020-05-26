@@ -10,6 +10,11 @@
 #include "DemoGame.hpp"
 #include "FootSoldier.hpp"
 #include "FootCommander.hpp"
+#include "Sniper.hpp"
+#include "SniperCommander.hpp"
+#include "Paramedic.hpp"
+#include "ParamedicCommander.hpp"
+
 #include <cassert>
 
 namespace WarGame {
@@ -20,7 +25,9 @@ namespace WarGame {
 			board[{0,1}] = new FootSoldier(1);
 			board[{0,3}] = new FootCommander(1);
 			board[{0,5}] = new FootSoldier(1);
-			//assert(board.has_soldiers(1));
+            board[{0,4}] = new Sniper(1);
+
+            //assert(board.has_soldiers(1));
 
 			// Add soldiers for player 2:
 			//assert(!board.has_soldiers(2));

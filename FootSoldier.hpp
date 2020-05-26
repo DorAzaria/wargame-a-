@@ -3,7 +3,6 @@
 //
 #include <iostream>
 using namespace std;
-#include "Soldier.hpp"
 
 #ifndef WARGAME_A_MASTER_FOOTSOLDIER_HPP
 #define WARGAME_A_MASTER_FOOTSOLDIER_HPP
