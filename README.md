@@ -1,6 +1,6 @@
 <div dir="rtl" lang="he">
 	
-	![alt Diagram](https://app.lucidchart.com/publicSegments/view/8bc2d853-e5e4-47ab-b82b-aa7bd0665078/image.jpeg)
+	![alt Diagram](https://app.lucidchart.com/publicSegments/view/998ea9eb-531f-4edf-93b8-9076b21a58ad/image.png)
 	
 # משחק מלחמה - שלב א
 
