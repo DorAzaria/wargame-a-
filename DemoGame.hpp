@@ -31,6 +31,6 @@ namespace WarGame {
  		/**
 		 * The destructor deletes the soldiers from the board.
 		 */
-//		~DemoGame();
+		~DemoGame();
 	};
 }

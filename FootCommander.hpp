@@ -9,13 +9,14 @@ using namespace std;
 
 class FootCommander : public Soldier {
 private:
-    uint player_number;
+
 public:
     FootCommander() {
     }
 
-    FootCommander(uint player_number) {
-        this->player_number = player_number;
+    FootCommander(uint number) {
+        player_number = number;
+        types = "FC";
     }
 
     //destructor for the Object

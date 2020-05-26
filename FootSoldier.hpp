@@ -11,18 +11,18 @@ using namespace std;
 class FootSoldier : public Soldier {
 
 private:
-    uint player_number;
+
 public:
 
     FootSoldier() {
 
     }
 
-    FootSoldier(uint player_number) {
-        cout<< " hi " << endl;
-        this->player_number = player_number;
+    FootSoldier(uint number) {
+        player_number = number;
         hp = 150;
         damage = 10;
+        types = "FS";
     }
 
      //destructor for the Object

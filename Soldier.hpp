@@ -7,10 +7,17 @@ using namespace std;
 #define WARGAME_A_MASTER_SOLDIER_HPP
 
 class Soldier {
+private :
+    enum class Type {
+        FootSoldier, Sniper, Paramedic, FootSoldierCommander, SniperCommander, ParamedicCommander
+    };
+    Type type;
+
 public :
-    int hp, damage, heal;
-
-    virtual ~Soldier() { cout << "A Soldier destructor is called" << endl; }
-
+    Soldier(){};
+    uint player_number;
+    uint hp, damage;
+    string types;
+    virtual ~Soldier() { cout << "A Soldier destructor is called" <<endl; }
 };
 #endif //WARGAME_A_MASTER_SOLDIER_HPP

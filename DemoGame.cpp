@@ -46,19 +46,19 @@ namespace WarGame {
 			if (!board.has_soldiers(1)) return 2;
 
 			/// Write more moves here..
-
+			board.print();
 			// If no player won, return "tie":
 			return 0;
 		}
 
-//		DemoGame::~DemoGame() {
-//			for (int iRow=0; iRow<numRows; ++iRow) {
-//				for (int iCol=0; iCol<numCols; ++iCol) {
-//					Soldier* soldier = board[{iRow,iCol}];
-//					if (soldier)
-//						delete soldier;
-//				}
-//			}
-//		}
+		DemoGame::~DemoGame() {
+			for (int iRow=0; iRow<numRows; ++iRow) {
+				for (int iCol=0; iCol<numCols; ++iCol) {
+					Soldier* soldier = board[{iRow,iCol}];
+					if (soldier)
+						delete soldier;
+				}
+			}
+		}
 
 }
