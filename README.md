@@ -1,4 +1,6 @@
 <div dir="rtl" lang="he">
+	
+	<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/10088af2-a03e-4495-8cfc-f6108ea2aacc" id="I6k2Bu1mSmYP"></iframe></div>
 
 # משחק מלחמה - שלב א
 
