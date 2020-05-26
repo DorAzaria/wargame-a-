@@ -1,7 +1,7 @@
+![Diagram](https://app.lucidchart.com/publicSegments/view/998ea9eb-531f-4edf-93b8-9076b21a58ad/image.png)
+
 <div dir="rtl" lang="he">
 	
-![Diagram](https://app.lucidchart.com/publicSegments/view/9afff8ef-0380-4003-a2ae-581513e527d3/image.jpeg)
-
 # משחק מלחמה - שלב א
 
 במטלה זו עליכם לתכנן משחק מלחמה לשני שחקנים על לוח מלבני.
