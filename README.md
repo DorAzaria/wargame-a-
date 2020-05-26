@@ -1,4 +1,4 @@
-![Diagram](app.lucidchart.com/publicSegments/view/998ea9eb-531f-4edf-93b8-9076b21a58ad/image.png)
+![Diagram](https://app.lucidchart.com/publicSegments/view/998ea9eb-531f-4edf-93b8-9076b21a58ad/image.png)
 
 <div dir="rtl" lang="he">
 	
