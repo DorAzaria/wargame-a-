@@ -8,10 +8,6 @@ using namespace std;
 
 class Soldier {
 private :
-    enum class Type {
-        FootSoldier, Sniper, Paramedic, FootSoldierCommander, SniperCommander, ParamedicCommander
-    };
-    Type type;
 
 public :
     Soldier(){};

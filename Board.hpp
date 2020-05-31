@@ -37,8 +37,12 @@ namespace WarGame {
 
         void print();
 
+        void swap(std::pair<int,int> source,int i, int j);
+
         // returns true iff the board contains one or more soldiers of the given player.
         bool has_soldiers(uint player_number) const;
+
+        bool limit(std::pair<int,int> source,int i, int j);
 
         ~Board()
         {

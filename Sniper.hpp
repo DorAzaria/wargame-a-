@@ -19,7 +19,7 @@ public:
         player_number = number;
         hp = 100;
         damage = 50;
-        types = "S";
+        types = " S";
     }
 
     //destructor for the Object
